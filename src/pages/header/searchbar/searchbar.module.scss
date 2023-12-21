@@ -1,0 +1,17 @@
+.searchbar-container{
+    position: relative;
+    background-color: #ffffff;
+    box-shadow: 1px 4px 10px 2px dimgray;
+    height: 2rem;
+    width: 30%;
+    border-radius: 25px;
+}
+.search-box{
+    display: flex;
+}
+.search-input{
+    width: 99%;
+    border: none;
+    border-radius: 25px;
+    padding: 10px;
+}
